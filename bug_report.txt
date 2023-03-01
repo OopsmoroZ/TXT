@@ -1,1 +1,12 @@
-
+#: Bug-report number
+Tittle: Bug-report title
+STR (Steps to reproduce):
+                             Step_1: step description
+                             Step_2: step description
+                             Step_3: step description
+                         
+Actual Result: Description of actual result
+Expected Result: Description of expected result
+Environment details: Description of environment
+Attachments: Attached files>
+Author: The author of the error message
